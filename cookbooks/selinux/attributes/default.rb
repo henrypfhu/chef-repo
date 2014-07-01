@@ -1,2 +1,2 @@
-default['selinux']['state'] = 'enforcing'
+default['selinux']['state'] = 'disabled'
 default['selinux']['booleans'] = {}
